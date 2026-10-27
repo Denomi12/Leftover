@@ -1,22 +1,22 @@
-# {kratek naslov, ki predstavlja rešeni problem in izbrano rešitev}
+# {short title, representative of solved problem and found solution}
 
-## Kontekst in opis problema
+## Context and Problem Statement
 
-{Opišite kontekst in problem, npr. prosto v dveh do treh stavkih ali v obliki ponazoritvene zgodbe. Problem lahko zapišete tudi kot vprašanje. Po potrebi dodajte povezave na table za sodelovanje ali sisteme za upravljanje zahtevkov. Jasno določite obseg odločitve, npr. tako, da navedete ali pokažete strukturne elemente arhitekture (komponente, povezave, ...).}
+{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question. Consider adding links to collaboration boards or issue management systems. Make the scope of the decision explicit, for instance, by calling out or pointing at structural architecture elements (components, connectors, ...).}
 
-## Obravnavane možnosti
+## Considered Options
 
-- {naslov možnosti 1}
-- {naslov možnosti 2}
-- {naslov možnosti 3}
+- {title of option 1}
+- {title of option 2}
+- {title of option 3}
 - …
 
-## Odločitev
+## Decision Outcome
 
-Izbrana možnost: »{naslov možnosti 1}«, ker {utemeljitev, npr. edina možnost, ki izpolni izločilni kriterij | ki reši problem {problem} | … | se izkaže za najboljšo (glej spodaj)}.
+Chosen option: "{title of option 1}", because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
 
-### Posledice
+### Consequences
 
-- Dobro, ker {pozitivna posledica, npr. izboljšanje ene ali več želenih lastnosti, …}
-- Slabo, ker {negativna posledica, npr. poslabšanje ene ali več želenih lastnosti, …}
+- Good, because {positive consequence, e.g., improvement of one or more desired qualities, …}
+- Bad, because {negative consequence, e.g., compromising one or more desired qualities, …}
 - …
