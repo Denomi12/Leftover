@@ -6,9 +6,9 @@ Frontend aplikacije Leftover je sestavljen iz več interaktivnih pogledov. Osred
 
 ## Obravnavane možnosti
 
-* Svelte s SvelteKit
-* React
-* Next.js
+- Svelte s SvelteKit
+- React
+- Next.js
 
 ## Odločitev
 
@@ -22,9 +22,9 @@ React ima največji ekosistem in skupnost, vendar za enako funkcionalnost zahtev
 
 ### Posledice
 
-* Dobro, ker ima projekt že od začetka jasno in modularno strukturo map in datotek.
-* Dobro, ker je vsaka komponenta zaključena celota, ki jo je lahko ponovno uporabiti in spreminjati.
-* Dobro, ker je koda kratka in berljiva, razvoj pa zato hitrejši.
-* Dobro, ker se Svelte prevede v majhen JavaScript brez navideznega DOM-a, zato je vmesnik odziven.
-* Slabo, ker je izbira že pripravljenih knjižnic komponent manjša kot pri Reactu.
-* Slabo, ker je na spletu na voljo manj primerov in odgovorov na pogosta vprašanja.
+- Dobro, ker ima projekt že od začetka jasno in modularno strukturo map in datotek.
+- Dobro, ker je vsaka komponenta zaključena celota, ki jo je lahko ponovno uporabiti in spreminjati.
+- Dobro, ker je koda kratka in berljiva, razvoj pa zato hitrejši.
+- Dobro, ker se Svelte prevede v majhen JavaScript brez navideznega DOM-a, zato je vmesnik odziven.
+- Slabo, ker je izbira že pripravljenih knjižnic komponent manjša kot pri Reactu.
+- Slabo, ker je na spletu na voljo manj primerov in odgovorov na pogosta vprašanja.
